@@ -4,20 +4,20 @@
 
 ---
 
-## 🌐 Live Demo (MVP)
-👉 https://eventsphere-eb8b2.web.app
+## Live Demo (MVP)
+ https://eventsphere-eb8b2.web.app
 
 > The MVP demonstrates the core user flow and cloud integration.  
 > The application is publicly accessible and requires no local setup to view.
 
 ---
 
-## 🚀 Problem Statement
+## Problem Statement
 Finding, managing, and engaging with events is often fragmented across multiple platforms, leading to poor discoverability and user experience. EventSphere addresses this by centralizing event interactions into a single, intelligent platform.
 
 ---
 
-## 💡 Solution
+## Solution
 EventSphere offers a unified interface where users can:
 - Discover events easily
 - Interact with event-related information
@@ -27,7 +27,7 @@ The platform emphasizes simplicity, scalability, and intelligent assistance.
 
 ---
 
-## ✨ Key Features
+## Key Features
 - Event discovery and listing
 - Firebase-based hosting and configuration
 - AI-powered assistance using Google Gemini
@@ -36,7 +36,7 @@ The platform emphasizes simplicity, scalability, and intelligent assistance.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 **Frontend**
 - JavaScript
 - HTML & CSS
@@ -49,18 +49,18 @@ The platform emphasizes simplicity, scalability, and intelligent assistance.
 
 ---
 
-## ☁️ Google Technologies Used
+## Google Technologies Used
 - Firebase Hosting
 - Google Gemini API
 
 ---
 
-## 🤖 Google AI Integration
+## Google AI Integration
 - **Gemini API** is used to provide AI-powered conversational assistance and intelligent responses related to events.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 .
 ├── dist/ # Production build files
 ├── src/ # Source code
@@ -72,7 +72,7 @@ The platform emphasizes simplicity, scalability, and intelligent assistance.
 
 ---
 
-## 🔐 Security & API Key Handling
+## Security & API Key Handling
 - No API keys are committed to this repository.
 - Sensitive credentials (e.g., Gemini API key) are managed via environment variables.
 - The frontend does not expose any secret keys.
@@ -80,7 +80,7 @@ The platform emphasizes simplicity, scalability, and intelligent assistance.
 
 ---
 
-## 🧪 Running Locally (Optional)
+## Running Locally (Optional)
 ```bash
 npm install
 npm run dev
