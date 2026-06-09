@@ -61,14 +61,14 @@ The platform emphasizes simplicity, scalability, and intelligent assistance.
 ---
 
 ## Repository Structure
-.
+```text
 ├── dist/ # Production build files
 ├── src/ # Source code
 ├── firebase.json # Firebase hosting configuration
 ├── package.json # Project dependencies
 ├── README.md # Project documentation
 └── .gitignore # Ignored files (includes .env)
-
+```
 
 ---
 
